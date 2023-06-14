@@ -1,0 +1,10 @@
+pyscf==2.2.1
+scikit-learn==1.2.0
+ase==3.22.1
+nglview==3.0.5
+numpy==1.24.3
+matplotlib==3.7.1
+dscribe==2.0.0
+joblib==1.1.1
+pandas==1.5.2
+scipy==1.10.1
